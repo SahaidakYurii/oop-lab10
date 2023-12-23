@@ -9,6 +9,7 @@ import com.google.cloud.vision.v1.Image;
 import com.google.cloud.vision.v1.ImageAnnotatorClient;
 import com.google.cloud.vision.v1.ImageSource;
 import com.google.cloud.vision.v1.TextAnnotation;
+
 import lombok.AllArgsConstructor;
 import lombok.SneakyThrows;
 
